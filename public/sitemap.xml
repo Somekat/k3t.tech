@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://k3t.tech/</loc>
+    <lastmod>2023-05-09T20:47:58-06:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://k3t.tech/posts/</loc>
+    <lastmod>2023-05-09T20:47:58-06:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://k3t.tech/posts/mayhem/</loc>
+    <lastmod>2023-05-09T20:47:58-06:00</lastmod>
+  </url><url>
+    <loc>https://k3t.tech/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://k3t.tech/blog/</loc>
+  </url><url>
+    <loc>https://k3t.tech/series/</loc>
+  </url><url>
+    <loc>https://k3t.tech/tags/</loc>
+  </url>
+</urlset>
