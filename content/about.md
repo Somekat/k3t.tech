@@ -6,6 +6,7 @@ socials:
 - discord: somek3t#0001  
 - [YouTube](https://youtube.com/@Somek3t)
 - [Twitter (Erased)](https://twitter.com/Someket_)
+- [Github (Which also hosts this site)](https://github.com/Somekat)
 
 places i'd like to point out:
 - [TeamSDS](https://teamsds.net)  
