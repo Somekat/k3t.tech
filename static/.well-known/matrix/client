@@ -1,0 +1,8 @@
+{
+    "m.homeserver": {
+        "base_url": "https://untitled.k3t.tech"
+    },
+    "m.identity_server": {
+        "base_url": "https://vector.im"
+    }
+}
