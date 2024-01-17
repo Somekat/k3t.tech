@@ -18,7 +18,11 @@ as you can probably tell, i've left the app, due to it being an unstable mess, a
 here's my socials: 
 
 notquitek3t   (snap, instagram, tiktok but its more unreliable) 
+
 @k3t:k3t.tech (Matrix) 
+
 k3t@k3t.tech  (iMessage, email) 
+
 somek3t@riseup.net (email, more or less reliable than the other) 
+
 untitledk3t   (reddit, i dont check this much) 
